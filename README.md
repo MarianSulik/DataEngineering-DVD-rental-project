@@ -4,7 +4,8 @@ This project aims to convert snow flake schema into star schema using Python and
 
 # Project Goals
 
-dfadsa
+1. Building Data Warehouse
+2. Understanding Could Computing
 
 # Services we will be using
 
