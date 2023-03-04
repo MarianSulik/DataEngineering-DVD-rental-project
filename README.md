@@ -2,10 +2,18 @@
 
 This project aims to convert relational data model into dimensional data model using Python and SQL and create datawarehouse in Redshift
 
-# Project Goals
+# Project Steps
 
-1. Building Data Warehouse
-2. Understanding Could Computing
+1. Visualize relational data model
+2. Upload data to S3
+3. Crawl data 
+4. Connect to Athena and query data
+5. Visualize dimensional data model 
+6. Set up config file
+7. ETL job in Python and SQL
+8. Save results to S3
+9. Build tables on Redshift
+10. Copy data to Redshift
 
 # Services we will be using
 
@@ -20,7 +28,6 @@ This project aims to convert relational data model into dimensional data model u
 This sample database is originally used for learning and practicing PostgreSQL. 
 For simple demonstration we use this data set in my project. The DVD rental database represents the business processes of a DVD rental store. 
 https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
-
 
 # Architecture Diagram
 ![Cloud AWS drawio](https://user-images.githubusercontent.com/82080180/222929693-13e2701b-dcc6-4746-b85b-354eab7b3b4d.png)
