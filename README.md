@@ -1,6 +1,6 @@
 # Overview
 
-This project aims to convert snow flake schema into star schema using Python and SQL and create datawarehouse in Redshift
+This project aims to convert relational data model into dimensional data model using Python and SQL and create datawarehouse in Redshift
 
 # Project Goals
 
