@@ -4,8 +4,7 @@ This project aims to convert relational data model into dimensional data model u
 
 # Project Steps
 
-S3 
-https://s3.console.aws.amazon.com/s3/buckets/dvd-rental-dtb?region=eu-west-3&tab=objects
+S3: https://s3.console.aws.amazon.com/s3/buckets/dvd-rental-dtb?region=eu-west-3&tab=objects
 
 1. Visualize relational data model
 2. Upload data to S3
