@@ -22,6 +22,7 @@ This project aims to convert relational data model into dimensional data model u
 3. AWS Glue: A serverless data integration service that makes it easy to discover, prepare, and combine data for analytics, machine learning, and application development.
 4. AWS Athena: Athena is an interactive query service for S3 in which there is no need to load data it stays in S3.
 5. Amazon Redshift Serverless provides data warehouse capacity and intelligent scaling with simple configuration and management.
+6. Diagrams.net free online diagram software for making flowcharts
 
 # Dataset Used
 
