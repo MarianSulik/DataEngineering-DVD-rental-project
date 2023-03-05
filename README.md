@@ -1,6 +1,8 @@
 # Overview
 
 This project aims to convert relational data model into dimensional data model using Python and SQL and create datawarehouse in Redshift
+S3 
+https://s3.console.aws.amazon.com/s3/buckets/dvd-rental-dtb?region=eu-west-3&tab=objects
 
 # Project Steps
 
