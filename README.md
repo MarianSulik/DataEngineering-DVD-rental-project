@@ -28,7 +28,7 @@ S3: https://s3.console.aws.amazon.com/s3/buckets/dvd-rental-dtb?region=eu-west-3
 
 # Dataset Used
 
-This sample database is originally used for learning and practicing PostgreSQL. 
+This database is originally used for learning and practicing PostgreSQL. 
 For simple demonstration we use this data set in my project. The DVD rental database represents the business processes of a DVD rental store. 
 https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
 
